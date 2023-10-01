@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MyClassTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-09-30T22:16:38" hostname="DESKTOP-CH1DRLH" time="0.057">
+  <properties/>
+  <testcase name="testConcatenateStrings()" classname="org.example.MyClassTest" time="0.045"/>
+  <testcase name="testAdd()" classname="org.example.MyClassTest" time="0.001"/>
+  <testcase name="testFindMax()" classname="org.example.MyClassTest" time="0.001"/>
+  <testcase name="testCalculateAverage()" classname="org.example.MyClassTest" time="0.001"/>
+  <testcase name="testIsEven()" classname="org.example.MyClassTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
